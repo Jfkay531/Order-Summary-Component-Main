@@ -25,7 +25,7 @@
 
 
   .main{
-    width:100%;
+    width:95%;
     height:580px;
     /* align-items: center; */
     box-shadow: 2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
@@ -42,7 +42,7 @@
 
 .topimage{
   background-image: url("illustration-hero.svg");
-  width: 100%;
+  width: 95%;
   height: 220px;
   border-radius: 15px 15px 0px 0px;
   background-color: hsl(245, 75%, 52%);
