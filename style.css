@@ -120,7 +120,7 @@ p{
     }
     .main{
       width:450px;
-      height 80vh;
+      min-height 100vh;
       margin-top: 70px;
     }
     .topimage{
