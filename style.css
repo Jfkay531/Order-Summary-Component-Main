@@ -150,8 +150,10 @@ p{
       margin: 25px;
     }
 
-    .main {
-      width: 450px;
+    .main, .message, .plans, .button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
       
 
 
