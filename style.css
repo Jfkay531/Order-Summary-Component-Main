@@ -143,60 +143,18 @@ p{
 }
 
 @media only screen and (min-width: 1000px){
-    body{font-size: 16px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin: 25px;
+    body{       font-size: 16px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin: 25%;
     }
 
     .main, .message, .plans, .button {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      
-
-
+              display: flex;
+              justify-content: center;
+              align-items: center;
     }
 
 }
 
-
-/*
-@media only screen and (min-width: 1000px){
-    body{font-size: 16px;
-      display: flex;
-      justify-content: center;
-    }
-    .main{
-      width:40vw;
-      height:100vh;
-      margin-top: 70px;
-    }
-    .topimage{
-      width: 40vw;
-      height: 22vh;
-      background-size: contain;
-      background-repeat: no-repeat;
-    }
-
-    p{
-      padding-left: 50px;
-      padding-right: 50px;
-      font-size: 1.5rem;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-    }
-    .plans {
-    height: 65px;
-    width: 28vw;
-    font-size: 1.5rem;
-    }
-
-
-    #proceed,#cancel{
-      font-size: 16px;
-    }
-} */
