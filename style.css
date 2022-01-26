@@ -142,7 +142,7 @@ p{
 
 }
 
-@media only screen and (min-width: 900px){
+@media only screen and (min-width: 1000px){
     body{       font-size: 16px;
                 display: flex;
                 justify-content: center;
@@ -154,7 +154,6 @@ p{
     }
       
   .topimage{
-              background-image: url("illustration-hero.svg");
               width: 450px;
               height: 220px;
 }
