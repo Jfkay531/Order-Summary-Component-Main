@@ -148,15 +148,7 @@ p{
                 justify-content: center;
                 align-items: center;
                 margin: 25px;
-    }
-
-    .main, .message, .plans, .button {
-              display: flex;
-              justify-content: center;
-              align-items: center;
-              width: 450px;
-              height: 780px;
-    }
+    
     .main {   width: 450px;
               height: 780px;
     }
