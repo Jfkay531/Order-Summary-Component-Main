@@ -151,12 +151,12 @@ p{
       display: flex;
       justify-content: center;
       align-items: center;
-      margin: 22px;
+      margin: 25%;
     }
 
     .main {
       width: 450px;
-      height: 780px;
+      height: 750px;
 
 
 
