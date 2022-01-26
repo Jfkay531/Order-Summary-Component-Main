@@ -152,5 +152,11 @@ p{
     .main {   width: 450px;
               height: 780px;
     }
+      
+  .topimage{
+              background-image: url("illustration-hero.svg");
+              width: 450px;
+              height: 220px;
+}
 }
 
