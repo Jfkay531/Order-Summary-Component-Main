@@ -154,6 +154,8 @@ p{
               display: flex;
               justify-content: center;
               align-items: center;
+              width: 450px;
+              height: 780px;
     }
     .main {   width: 450px;
               height: 780px;
